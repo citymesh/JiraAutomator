@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 azure-functions = "*"
+requests = "*"
 
 [dev-packages]
 
