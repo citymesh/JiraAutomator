@@ -1,7 +1,9 @@
 {
-  "IsEncrypted": false,
-  "Values": {
-    "FUNCTIONS_WORKER_RUNTIME": "python",
-    "AzureWebJobsStorage": ""
-  }
+    "IsEncrypted": false,
+    "Values": {
+        "FUNCTIONS_WORKER_RUNTIME": "python",
+        "AzureWebJobsStorage": "",
+        "JiraBaseUrl": "https://xxx.atlassian.net/rest/agile/1.0",
+        "JiraToken": "SomeJiraCloudToken"
+    }
 }
